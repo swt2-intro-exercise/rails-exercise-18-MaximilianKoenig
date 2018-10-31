@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  get 'new_author' => 'new_author#hello'
+  
+  resources :authors
+  
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rails routes".
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
