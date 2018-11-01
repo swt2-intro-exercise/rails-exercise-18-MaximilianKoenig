@@ -6,9 +6,12 @@ class AuthorsController < ApplicationController
         @author = Author.new(article_params)
 
         @author.save
-        #redirect_to @author
+        redirect_to @author
     end
 
+    def show
+        @author = Author.find(params[:id])
+    end
 
     private
         def article_params
