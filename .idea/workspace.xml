@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f060fdc2-7270-479a-895c-2a56a375fc14" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spec/models/author_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/models/author_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/author.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/author.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/author.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -290,15 +290,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541155479411</updated>
-      <workItem from="1541155483232" duration="1281000" />
+      <workItem from="1541155483232" duration="1438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1281000" />
+    <option name="totallyTimeSpent" value="1438000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1477" height="797" extended-state="7" />
+    <frame x="-7" y="-7" width="1477" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -351,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/author.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
