@@ -18,11 +18,13 @@
 <p>
   <strong>Authors:</strong>
 
-  <% @paper.authors.each do |author| %>
-    <p>
-      <%= author.name %>
-    </p>
-  <% end %>
+  <ul>
+    <% @paper.authors.each do |author| %>
+      <p>
+        <li><%= author.name %></li>
+      </p>
+    <% end %>
+  </ul>
 </p>
 
 
